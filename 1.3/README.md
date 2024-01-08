@@ -2,7 +2,7 @@
 
 # Why we should use React ?
 
-react is not do any rocket scinnce performence improvnet , we have compitior scilt solidjs , but we chose react becase of its community and devleper friendly behabior ,
+react is not do any rocket scinnce performence improvnet , we have compitior sveilt solidjs , but we chose react becase of its community and devleper friendly behabior ,
 
 # How DOM CSSOM works ?
 
