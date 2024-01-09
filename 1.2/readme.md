@@ -14,7 +14,7 @@ Required Application for React
 
 [Vite](https://vitejs.dev/)
 
-1. VS Code user snipet
+Here is the code for the VS Code snippets as well.
 
 ```jsx
 {
@@ -32,7 +32,7 @@ Required Application for React
 }
 ```
 
-1. VS Setting JSON
+VS Code Settings
 
 ```jsx
 {
