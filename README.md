@@ -18,4 +18,4 @@
 - [ 1.10 - Rendering Lists ](/1.10/)
 - [ 1.11 - Pure Components: Keeping Components Pure ](/1.11/)
 - [ 1.12 - Understanding Complex React UI](/1.12/)
-- [ 1.13 Project Tutorial - Tic-Tac-Toe Game ](/1.13/)
+- [ 1.13 - Project Tutorial - Tic-Tac-Toe Game ](/1.13/)
