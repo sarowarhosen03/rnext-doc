@@ -1,8 +1,8 @@
 # module 1.3
 
-# Why we should use React ?
+# Why we should use React?
 
-react is not do any rocket scinnce performence improvnet , we have compitior sveilt solidjs , but we chose react becase of its community and devleper friendly behabior ,
+We chose React for our project because it has a strong community and is easy for developers to use. While it may not have super advanced performance features out of the box, the support and resources available make it a solid choice. We know there are other options like Svelte and Solid, but for now, React fits well with our needs.
 
 # How DOM CSSOM works ?
 
