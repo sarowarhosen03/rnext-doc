@@ -4,7 +4,7 @@
 
 React is a javascript UI/User Interface Library.
 
-## Why React ?
+## Why React?
 
 ReactJS is a UI library that helps us build dynamic and efficient user interfaces with reusable code. It simplifies DOM manipulation and enhances the responsiveness of web apps. The UI automatically reacts to data changes, eliminating the need to manually specify how and when updates should occur.
 
@@ -20,19 +20,19 @@ ReactJS is a UI library that helps us build dynamic and efficient user interface
 
 ### What is Transpiler?
 
-Transpiler is a tool that take code written in one language and convert it to another language.
+Transpiler is a tool that takes code written in one language and converts it to another language.
 
 ## What is Bable?
 
-Bable is a Javascript Transpiler. It's **Primary Role** is to translate modern Javascript code to old version of javascript.
+Bable is a Javascript Transpiler. Its **Primary Role** is to translate modern Javascript code to the old version of javascript.
 
 ## What is JSX
 
-JSX's full form is 'JavaScript XML'. It's XML like extention of Javascript for building UI component. It was creeated at Facebook by React team for Reactjs.
+JSX's full form is 'JavaScript XML'. It's XML like an extension of Javascript for building UI components. It was created on Facebook by the React team for Reactjs.
 
-## How JSX, Bable and React work together?
+## How do JSX, Bable and React work together?
 
-As Browser do not understand JSX syntax, JSX syntax are parsed by Bable. Bable creats JS code that browser can understand. For Ex:
+As Browser does not understand JSX syntax, JSX syntax is parsed by Bable. Bable creates JS code that the browser can understand. For Ex:
 
 This is a JSX code:
 
@@ -42,7 +42,7 @@ const WelcomeButton = () => (
 );
 ```
 
-After it was Transpiled by Bable, The output is:
+After it was transpiled by Bable, The output is:
 
 ```JS
 const WelcomeButton = () => (
@@ -50,4 +50,4 @@ const WelcomeButton = () => (
 );
 ```
 
-Now the output is a pure JS code which browser understand.
+Now the output is a pure JS code which the browser understands.
