@@ -10,12 +10,12 @@ React is a javascript UI/User Interface Library. **The user interface involves t
 
 In React, user interactions are handled by React, while ReactDOM renders the DOM. Before creating a DOM, a virtual DOM is created, which is one of React's main advantages.
 
-- **React's invention:**
-    - Jordan Walke created it. He was inspired by the PHP framework based on the XHP-JS component, which was used in the Facebook newsfeed in 2011.
-    
 - **The difference between a library and a framework:**
     - **Library:** This is the focus for building any particular thing. For example, React for web and native user interfaces.
     - ****Framework:**** This is the complete package for any project. The framework for JavaScript, for example, is shown next.
+
+- **React's invention:**
+    - Jordan Walke created it. He was inspired by the PHP framework based on the XHP-JS component, which was used in the Facebook newsfeed in 2011.
 
 ## Why React?
 
