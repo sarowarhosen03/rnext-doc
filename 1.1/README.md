@@ -35,6 +35,11 @@ ReactJS is a UI library that helps us build dynamic and efficient user interface
 
 Transpiler is a tool that takes code written in one language and converts it to another language.
 
+- **Compiler VS Transpiler**
+    - **Compiler:** Compilers are used to convert higher levels of code (human-understandable) to a binary file (machine-understandable code). **Examples** of compiled languages are C, C++, and Java, which, after compiling, generate bytecodes, or assembly-level languages, which are closer to binary files.
+      
+    - ************************Transpiler:************************ Transpiling can be referred to as a source-to-source compiler, which translates one higher-level language to another higher-level language. **For example,** Typescript is a higher-level language that, after transpiling is converted to JavaScript, which is also another higher-level language
+
 ## What is Bable?
 
 Bable is a Javascript Transpiler. Its **Primary Role** is to translate modern Javascript code to the old version of javascript.
