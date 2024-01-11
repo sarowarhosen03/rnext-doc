@@ -46,7 +46,7 @@ Babel is a JavaScript compiler. Also, this is a transpiler. Babel can convert Ja
 
 ## What is JSX
 
-JSX's full form is 'JavaScript XML'. It's XML like an extension of Javascript for building UI components. It was created on Facebook by the React team for Reactjs.
+The full form of JSX is 'JavaScript XML'. It is an extension of JavaScript for creating UI components. JSX allows you to write HTML-like code in JavaScript files, making working with UI components easier.
 
 ## How do JSX, Bable and React work together?
 
