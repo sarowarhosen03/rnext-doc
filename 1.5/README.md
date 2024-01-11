@@ -7,8 +7,8 @@ when we create a component and want to use it in another file, we can use the **
 There are two types of export/import system.
 
 <ol>
-<li>Default export/import<li>
-<li>Name export/import<li>
+<li>Default export <li>
+<li>Name export<li>
 </ol>
 
 ## **Default export/import**
