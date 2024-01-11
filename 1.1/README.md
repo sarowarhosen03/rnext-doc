@@ -42,7 +42,7 @@ Transpiler is a tool that takes code written in one language and converts it to 
 
 ## What is Bable?
 
-Bable is a Javascript Transpiler. Its **Primary Role** is to translate modern Javascript code to the old version of javascript.
+Babel is a JavaScript compiler. Also, this is a transpiler. Babel can convert JavaScript ES6 syntax to ES5 syntax to ensure compatibility with all older browsers. For this, we use Bable.
 
 ## What is JSX
 
