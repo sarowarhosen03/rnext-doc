@@ -11,7 +11,7 @@
 - [ 1.3 - How to works Virtual Dom](/1.3/)
 - [ 1.4 - Basics of React Components: Your first component](/1.4/)
 - [ 1.5 - Basics of React Components: Importing & Exporting Components](/1.5/)
-- [ 1.6 - Basics of JSX: React's Markup - Writing Markup with JSX (missing note ⚔️) ](/1.6/)
+- [ 1.6 - Basics of JSX: React's Markup - Writing Markup with JSX](/1.6/)
 - [ 1.7 - Basics of JSX: Reacts Markup - JavaScript in JSX with Curly Braces (missing note ⚔️) ](/1.7/)
 - [ 1.8 - Understanding Props - Passing Props to a Component  (missing note ⚔️)](/1.8/)
 - [ 1.9 - Conditional Rendering  (missing note ⚔️)](/1.9/)
