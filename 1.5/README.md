@@ -1,13 +1,13 @@
 # 1.5 - Basics of React Components: Importing & Exporting Components
 
-##`**Export and Import:**`
+`** Export and Import **`
 
 when we create a component and want to use it in another file, we can use the **export** and **import** statements provided by JavaScript to export our component from one file and import it into another.
 
-There are two types of export/import systems.
+`There are two types of export/import systems.`
 
-1. Default Export
-2. Named Export
+`1. Default Export`
+`2. Named Export`
   
 ## **Default export/import**
 
@@ -23,7 +23,7 @@ or;
 import MyProfile from "./pathname";
 ```
 
-## **Name export/import**
+## **Named Export/Import**
 
 when we use name export that time we have to import it with the same name inside {}. But we can rename it. That time we use (as) to rename.
 
@@ -36,8 +36,6 @@ import { Profile } from "./pathname";
 or;
 import { Profile as MyProfile } from "./pathname";
 ```
-
-note: we can use default and name export/import together.
 
 > [!NOTE]
 > We can use default export and named export/import together in one file.
