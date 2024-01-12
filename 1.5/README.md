@@ -38,3 +38,6 @@ import { Profile as MyProfile } from "./pathname";
 ```
 
 note: we can use default and name export/import together.
+
+> [!NOTE]
+> We can use default export and named export/import together in one file.
