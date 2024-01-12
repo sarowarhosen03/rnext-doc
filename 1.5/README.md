@@ -6,11 +6,9 @@ when we create a component and want to use it in another file, we can use the **
 
 There are two types of export/import systems.
 
-<ol>
-<li>Default export <li>
-<li>Name export<li>
-</ol>
-
+1. Default Export
+2. Namee Export
+  
 ## **Default export/import**
 
 when we use default export, we can import it with the same name or set our own choosing name. That time we don't need to use any {}.
