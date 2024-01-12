@@ -1,7 +1,6 @@
 # 1.5 - Basics of React Components: Importing & Exporting Components
 
-`**Export and Import:**`
-`\***\*Export and Import:\*\***`
+##`**Export and Import:**`
 
 when we create a component and want to use it in another file, we can use the **export** and **import** statements provided by JavaScript to export our component from one file and import it into another.
 
