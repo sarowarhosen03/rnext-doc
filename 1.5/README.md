@@ -40,3 +40,8 @@ import { Profile as MyProfile } from "./pathname";
 ```
 
 note: we can use default and name export/import together.
+
+Any component that you export by default can be exported with whatever name you choose. For instance, you can use any name you choose when importing the Profile Component.
+```jsx
+import Profile from './components/Profile'
+```
