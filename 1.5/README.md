@@ -4,7 +4,7 @@
 
 when we create a component and want to use it in another file, we can use the **export** and **import** statements provided by JavaScript to export our component from one file and import it into another.
 
-There are two types of export/import system.
+There are two types of export/import systems.
 
 <ol>
 <li>Default export <li>
@@ -43,5 +43,5 @@ note: we can use default and name export/import together.
 
 Any component that you export by default can be exported with whatever name you choose. For instance, you can use any name you choose when importing the Profile Component.
 ```jsx
-import Profile from './components/Profile'
+import Component from './components/Profile'
 ```
