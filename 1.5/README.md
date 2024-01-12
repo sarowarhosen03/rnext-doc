@@ -2,6 +2,10 @@
 
 \***\*Export and Import:\*\***
 
+```bash
+Export and Import 
+```
+
 when we create a component and want to use it in another file, we can use the **export** and **import** statements provided by JavaScript to export our component from one file and import it into another.
 
 There are two types of export/import systems.
