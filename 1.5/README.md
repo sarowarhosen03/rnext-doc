@@ -7,11 +7,11 @@ when we create a component and want to use it in another file, we can use the **
 There are two types of export/import systems.
 
 1. Default Export
-2. Namee Export
+2. Named Export
   
 ## **Default export/import**
 
-when we use default export, we can import it with the same name or set our own choosing name. That time we don't need to use any {}.
+When we select default export, we have the option to import it under the same name or to choose a different one. We don't need to utilize any {} at that point.
 
 ```jsx
 export default function Profile() {
@@ -38,8 +38,3 @@ import { Profile as MyProfile } from "./pathname";
 ```
 
 note: we can use default and name export/import together.
-
-Any component that you export by default can be exported with whatever name you choose. For instance, you can use any name you choose when importing the Profile Component.
-```jsx
-import Component from './components/Profile'
-```
